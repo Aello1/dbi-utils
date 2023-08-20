@@ -1,0 +1,11 @@
+{
+    "name": "dbi-utils",
+    "version": "1.0.0",
+    "description": "Embed and button(for dbi) creator.",
+    "main": "./index.js",
+    "types": "./index.d.ts",
+    "dependencies": {
+        "@mostfeatured/dbi": "^0.0.75-dev.3",
+        "discord.js": "^14.12.1"
+    }
+}
